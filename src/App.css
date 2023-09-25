@@ -1,0 +1,215 @@
+.App {
+  text-align: center;
+}
+
+.body {
+  background-color: whitesmoke;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App {
+  background-color: white;
+  padding-left: 15px;
+  padding-bottom: 100%;
+
+}
+
+button {
+  width: 100%;
+  background-color: white;
+  border-style: none;
+  font-size: 15px;
+}
+
+.menu {
+  width: 100px;
+  height: 300px;
+  margin-left: block;
+
+}
+
+.h_title {
+  width: 500px;
+  height: 50px;
+  margin-top: -70px;
+  margin-left: 110px;
+}
+
+
+.title {
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+  width: 30px;
+  height: 30px;
+  margin-left: 25px;
+  margin-bottom: -50px;
+}
+
+.subt {
+  color: darkgrey;
+  font-size: 11px;
+  margin-right: 480px;
+  margin-top: -13px;
+}
+
+.progress-bar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background:
+    radial-gradient(closest-side, white 79%, transparent 80% 100%),
+    conic-gradient(hotpink 30%, pink 0);
+
+}
+
+.prg {
+  width: 50px;
+  height: 50px;
+  margin-left: 180px;
+  margin-top: -40px;
+}
+
+img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-top: 5px;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+  margin-right: 150%;
+  margin-left: -10px;
+  margin-bottom: -50px;
+}
+
+.chrt {
+  width: 900px;
+  height: 120px;
+  background-color: rgb(125, 91, 247);
+  margin-left: 170px;
+  margin-top: -260px;
+  border-radius: 15px;
+  text-align: left;
+}
+
+.chrt2 {
+  width: 900px;
+  height: 200px;
+  border: solid;
+  margin-left: 170px;
+  margin-top: 60px;
+  border-radius: 30px;
+  border-width: thin;
+  border-color: rgb(199, 187, 187);
+}
+
+.t1 {
+  width: 280px;
+  height: 120px;
+  color: lightblue;
+  display: block;
+  padding-left: 90px;
+  float: left;
+}
+
+.t2 {
+  width: 230px;
+  height: 120px;
+  color: thistle;
+  display: block;
+  padding-left: -15px;
+  float: left;
+}
+
+.t3 {
+  width: 260px;
+  height: 120px;
+  color: thistle;
+  display: block;
+  padding-left: 30px;
+  float: left;
+}
+
+.bl1 {
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: thistle;
+}
+
+.bl2 {
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: whitesmoke;
+}
+
+.bl3 {
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: thistle;
+}
+
+.img1 {
+  width: 40px;
+  height: 40px;
+  margin-top: 37px;
+  margin-left: -310px;
+}
+
+.btn1 {
+  width: 45px;
+  height: 23px;
+  border-radius: 40px;
+  font-size: 11px;
+  color: blue;
+  margin-left: 10px;
+
+}
+
+.c1 {
+  display: block;
+  float: left;
+  margin-left: 20px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+.cc1 {
+  display: block;
+  float: left;
+  margin-top: 40px;
+  margin-left: -155px;
+  font-size: small;
+  color: dimgrey;
+}
+
+.c2 {
+  width: 40px;
+  height: 40px;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: rgb(125, 91, 247);
+  padding-top: 60px;
+  margin-left: 20px;
+}
+
+.c3 {
+  float: left;
+  display: inline;
+  color: limegreen;
+  margin-top: -30px;
+  margin-left: 20px;
+}
+
+.c4 {
+  margin-top: -30px;
+  margin-left: -640px;
+  color: dimgray;
+}
